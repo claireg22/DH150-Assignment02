@@ -1,8 +1,6 @@
 # DH150-Assignment02
 
-## Assignment 02 - UT
-
-### The Purpose of UT
+## The Purpose of UT
 The purpose behind user testing is to improve the design of a product for real users. 
 User-tesing tests the usability of a product in order to make sure it is designed so that a real world user 
 can accurately and fluently complete tasks or goals, enjoy using the product, and be willing to use it again.
@@ -21,8 +19,9 @@ can locate the page and use it properly to find return shipping methods. And fin
 cluttered product filter system by seeing if the user can successfully and efficiently use the filters 
 to find a dress with a specified color, overall rating, size, and price.
 
-### UT materials:
+## UT materials:
 https://forms.gle/gJ6qT52QthBzK2y57
 
-### UT video:
-### What I learned during the pilot test, what went well and not so well, how I want to improve my UT in the future
+## UT video:
+## Improving UT:
+
